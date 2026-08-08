@@ -1,0 +1,11 @@
+{
+  "name": "playwright-table-sum",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node scrape.js"
+  },
+  "dependencies": {
+    "playwright": "^1.54.0"
+  }
+}
